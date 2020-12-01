@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.unitysample_steamvr2.0.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Adam6\\Desktop\\PhotonProjects\\PhotonIATK\\PhotonDesktop\\PhotonDesktop\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "IATK_VIVE [Testing]"
+        }
+      }
+    }
+  ]
+}
